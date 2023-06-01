@@ -8,7 +8,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin renames image filenames to be more SEO friendly, based on the post's data and image metadata.
+Renames image filenames to be more SEO friendly, based on the post's data and image metadata.
 
 == Description ==
 
