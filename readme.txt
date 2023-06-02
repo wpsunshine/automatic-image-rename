@@ -3,7 +3,7 @@ Contributors: wpsunshine
 Tags: image, images, SEO, rename, optimization
 Requires at least: 5.0
 Tested up to: 6.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -42,10 +42,8 @@ Yes, you can choose the post types in the plugin settings.
 
 == Changelog ==
 
+= 1.0.1 =
+* Add option for max number of words for new filename
+
 = 1.0.0 =
 * Initial release.
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-Initial release.
